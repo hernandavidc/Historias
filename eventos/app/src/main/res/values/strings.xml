@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eventos</string>
+    <string name="bienvenido_a_tu_generador_de_historias_reales_de_la_vida_real_que_le_pasa_a_las_personas_reales">Bienvenido a tu generador de historias reales de la vida real que le pasa a las personas reales.</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="sigue_las_instrucciones_que_se_van_mostrando_a_continuaci_n_para_personalizar_tus_historias">Sigue las instrucciones que se van mostrando a continuación para personalizar tus historias.</string>
+    <string name="c_mo_se_llama_el_protagonista">¿Cómo se llama el protagonista?</string>
+    <string name="qu_estaba_haciendo">¿Qué estaba haciendo?</string>
+</resources>
